@@ -1,4 +1,3 @@
-### Entropy-based Diversity Quantification of Multimodal Transportation Systems
-- Develop physical infrastructure diversity metrics based on open-source GIS database through ArcGIS software; develop travel behavior diversity metrics based on Connecticut travel survey dataset through Excel.
-- Perform the entropy method to quantify multimodal transportation systems diversity through Python Numpy and Pandas packages.
-- Visualize zip-code level diversity and US census data through ArcGIS, Minitab, and Python Matplotlib package.
+### Entropy-based Methods in Quantification of Multimodal Transportation Systems Diversity
+- Use Python (Numpy and Pandas packages) to apply entropy-based methods in quantifying multimodal transportation systems diversity
+- Apply Python (Matplotlib package) to visualize zip-code level multimodal transportation systems diversity and zip-code level census characteristics
