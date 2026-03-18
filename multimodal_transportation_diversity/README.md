@@ -1,3 +1,3 @@
-### Entropy-based Methods in Quantification of Multimodal Transportation Systems Diversity
-- Use Numpy and Pandas packages to apply entropy-based methods in quantifying multimodal transportation systems diversity
-- Apply Matplotlib package to visualize zip-code level multimodal transportation systems diversity and zip-code level census characteristics
+### Entropy-based methods for quantifying multimodal transportation system diversity
+- Use NumPy and Pandas to implement entropy-based methods for measuring diversity in multimodal transportation systems.
+- Apply Matplotlib to visualize ZIP code–level multimodal transportation diversity alongside corresponding census characteristics.
