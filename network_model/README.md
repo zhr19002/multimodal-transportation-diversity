@@ -1,10 +1,10 @@
-### Network Modeling Application in Human Mobility Exploration Under A Disaster
+### Network modeling for human mobility under disasters
 > 'tract_POI_network.ipynb'
-- Apply Numpy, Pandas, and Networkx packages to develop and analyze networks that connect census tracts and POI categories based on human mobility datasets (from SafeGraph Inc.)
-- Apply Matplotlib and Networkx packages to visualize networks and highlight vulnerable parts in networks under a disaster
+- Use NumPy, Pandas, and NetworkX to build and analyze networks linking census tracts and POI categories from SafeGraph mobility data.
+- Apply Matplotlib and NetworkX to visualize networks and identify vulnerable components under disaster scenarios.
 <br/>
 
-### Network Modeling Application in Role Identification in A Collaborative Learning Environment
-> 'collaborative_learning_network.ipynb' & 'agent_performance.ipynb'
-- Apply Matplotlib and Networkx packages to develop, analyze, and visualize networks based on processed datasets
-- Develop an algorithm to identify students’ participatory roles based on centrality measures, and apply Pandas package to quantify students’ overall performance
+### Network modeling for role identification in collaborative learning
+> 'agent_performance.ipynb' & 'collaborative_learning_network.ipynb'
+- Use NetworkX and Matplotlib to construct, analyze, and visualize interaction networks from processed data.
+- Develop a centrality-based algorithm to identify student roles, and apply Pandas to quantify overall performance.
