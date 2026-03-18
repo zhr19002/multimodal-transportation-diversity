@@ -1,3 +1,3 @@
-### Machine Learning Application in Community Resilience Prediction
-- Apply Numpy and Pandas packages to process and analyze US census datasets (from online resources) through data extraction, cleaning, transformation, and integration
-- Apply Scikit-learn and Xgboost packages to develop machine learning models (Random Forest & Stochastic Gradient Boosting Tree) in predicting community resilience metrics
+### Machine learning applications for predicting community resilience
+- Use NumPy and Pandas to process and analyze U.S. Census data, including extraction, cleaning, transformation, and integration.
+- Apply Scikit-learn and XGBoost to develop machine learning models (e.g., Random Forest and gradient boosting trees) to predict community resilience metrics.
