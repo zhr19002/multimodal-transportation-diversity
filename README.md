@@ -4,3 +4,4 @@ This repository covers the following topics:
 - **Machine learning applications for community resilience prediction**
 - **Network modeling for human mobility under disasters**
 - **Network modeling for role identification in collaborative learning**
+- **Portfolio risk assessment — InsurAIR flood loss modeling**
